@@ -1,0 +1,24 @@
+ASL Alphabet Recognition
+
+Real-time sign-to-text system using MobileNetV2, PyTorch, OpenCV, and Flask.
+
+Features
+- Real-time webcam recognition
+- Browser-based UI
+- Word and sentence construction
+- 29 gesture classes
+- Transfer learning
+
+Results
+- >99% validation accuracy
+- 100% accuracy on provided ASL test samples
+
+Tech Stack
+- Python
+- PyTorch
+- OpenCV
+- Flask
+
+Run
+pip install -r requirements.txt
+python demo.py
