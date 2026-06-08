@@ -16,7 +16,7 @@ from torch.utils.data import DataLoader, random_split, SubsetRandomSampler
 from torchvision import datasets, transforms, models
 
 # ── Config ────────────────────────────────────────────────────────────────────
-DATA_DIR         = r"d:\College Resourcez\Sem 4 Resources\Artifical Intelligence\VSC\AI Project\data\asl_alphabet_train"
+DATA_DIR         = #Add your own
 IMG_SIZE         = 128
 BATCH_SIZE       = 32
 NUM_CLASSES      = 29
